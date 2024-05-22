@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/L7/4S4GXJB5UVECSY1H8F6HJB.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8K/8XKS0HD4R1OLO0RNZIJN9T.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8S/J6N2E5DSZITFUS2BJ0NZ0C.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CZ/ZCFSNSKDU0R9YN2HLFH4A1.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6H/BQENZQFYFMSB1AGUOD32N1.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DZ/9BGMDLQSHGMQUL023MECOY.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OM/GZDCCIEVXB8ML53N0H399Q.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1C/ST7GH8URXWAROOEGIR3JFA.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/V6/P9O740D2H5PLUZO8ORT467.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6N/HRVP46ZIXD6ZO8PMTUTVNP.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TM/5C30BXQCZUDDYKLL7Z0US6.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/7Y/V6RFT2PG34ATEWUNY54RC7.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CX/POWK50T89BN8ZSVTVK99NE.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/86/X6K1NKRYYJWTVBTA76CMM3.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/TexturesAndSprites/goalPlaceholder.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HO/59YN6J2SLH10G99J7N64MX.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/ThirdPerson/Blueprints/BP_Mouse.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/ThirdPerson/Blueprints/BP_MouseControl.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/David/OneDrive/Documents/Unreal Projects/RocketRide_whitebox/Content/TexturesAndSprites/goalPlaceholder_Sprite.uasset"
+			]
+		}
+	]
+}
